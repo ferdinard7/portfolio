@@ -16,7 +16,7 @@ export const products = [
     },
     {
       id: 4,
-      img: "../images/1.png",
+      img: "https://i.ibb.co/6wqrG9z/luxury-44u4-onrender-com.png",
       // img: "https://i.ibb.co/KD74950/4.png",
     //   link: "http://lama.dev",
     },
@@ -32,7 +32,7 @@ export const products = [
     },
     {
       id: 7,
-      img: "../images/2.png",
+      img: "https://i.ibb.co/85TTdSH/Screenshot-9.png",
     //   link: "http://lama.dev",
     },
   ];
